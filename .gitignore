@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+# Environment variables
+# .env
+
+# IDE files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store 
